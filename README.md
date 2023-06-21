@@ -1,4 +1,3 @@
-# my_repo
 "Welcome to my project!"
 What does .gitignore do?
 Its how git know which files it's supposed to ignore when making a repo and adding your project,
